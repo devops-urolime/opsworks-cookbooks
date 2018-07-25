@@ -1,1 +1,7 @@
 test file
+- dummy data
+- Configuration file successfully saved at: /var/awslogs/etc/awslogs.conf[0m
+- You can begin accessing new log events after a few moments at https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#logs:[0m
+- You can use 'sudo service awslogs start|stop|status|restart' to control the daemon.[0m
+- To see diagnostic information for the CloudWatch Logs Agent, see /var/log/awslogs.log[0m
+- You can rerun interactive setup using 'sudo python ./awslogs-agent-setup.py --region us-east-1 --only-generate-config'[0m
